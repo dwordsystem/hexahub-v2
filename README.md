@@ -13,3 +13,7 @@ You can purchase the script [here](https://shoppy.gg/product/tMbUeQN).
 - [iTunes (Poland - 20 PLN)](https://www.g2a.com/search?query=itunes%20pln)
 
 ### Features
+Features can be found [here](https://github.com/dwordsystem/hexahub-v2/blob/main/Features.md)
+
+### Server
+Official HEXAhub server can be joined [here](https://discord.gg/troll)

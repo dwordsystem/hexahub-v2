@@ -1,17 +1,31 @@
 # HEXAhub V2
                                 
-                                .°oOOoooooooooo.                                
-                              .oOOooOOOO###OO°     **                           
-                            .oOooO#Oo°°.....     °Oo°°o.                        
-                           °o*.*oo°       ..°°°*O#O°*Oooo.                      
-                                        .oOoo*oo***O###oo.°*                    
-                                            °oOOO#######. o#                    
-                                              °o#######° °o*                    
-                                                .*####*  oO                     
-                                                  .*#o  oo*                     
-                                                    .. .O*                      
-                                                      .Oo.                      
-                                                      .O*                       
+                                                                           
+                          @@     @@                         
+                      *@@    **     @*                      
+                   @@     *O####o*     @@                   
+                @@    .oO##@@@@@@@#Oo°     @                
+                   *oO#@@@@#OooO#@@@@#Oo°                   
+                oO##@@@#Oo*oo##oooO#@@@@##O*                
+              . #@@@#Oo*oO#@@@@@@#Oo*oO#@@@O                
+            @@° #Oo**oO#@@@#O**o#@@@#O*O###O   .            
+               .ooO#@@@@Oo°      °o#@@OO@#@O                
+          @ *oO##@@@#O*.            °o*O@#@OoOo°            
+         @ O#@@@#Ooo°           °.     #@#@OO@@#o           
+         O O@###*oO#*              **  #@#@oo##@O           
+         * O##@oo@@@o               @  #@#@oo@##O           
+         * O@#@oo##@o               *  #@#@oo@#@O           
+         * O@#@oo@#@o   .*        *@@  #@#@oo@#@O           
+         * O@#@oo@##O.     @*  @@     °###@oo@#@O           
+         ° O##@o*#@@@#Oo*         .oO##@@@#*o@##O           
+         ° O@@##oooO#@@@@#Oo.  oO##@@@@#Oooo##@@O           
+         . *O#@@@@#Oooo##@@@#OooO#@##OooO#@@@@#o°           
+              °oO@@@@#OoooO#@@@#OoooOO#@@@#Oo°              
+           .     .*O#@@@#OOooO#@@@#@@@@#O*.                 
+             °°.    .*o#@@#o. .°o#@@Oo°                     
+                @°.     °.        °.                        
+                    *°        ..                            
+                       *o°.      @o..                     
                             
 
 ### Introduction
